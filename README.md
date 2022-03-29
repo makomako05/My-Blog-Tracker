@@ -1,2 +1,2 @@
 # My-Blog-Tracker
-This is repository for my blog tracker.
+Repository for my blog tracker project.
